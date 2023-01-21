@@ -28,8 +28,8 @@
    2-Tracez le signal enregistré en fonction du temps, puis écoutez-le en utilisant la 
    commande « sound ».
 
-   ![1](https://user-images.githubusercontent.com/78149349/213763870-d69c08d7-e93d-4cd6-9037-59f3bef74958.png)
-   ![2](https://user-images.githubusercontent.com/78149349/213763876-7b9e00da-909e-4406-b2e3-f80e78b8d8c0.png)
+  ![1](https://user-images.githubusercontent.com/78149349/213871881-94962b80-43df-4230-b5a1-8865052c6a40.png)
+  ![2](https://user-images.githubusercontent.com/78149349/213871883-1cda3f5c-8b12-470b-a515-51390d691142.png)
 
              
    3-« Terminator » ou « Donald Duck »
@@ -39,8 +39,8 @@
    4-Tracez le signal en fonction des indices du vecteur x, puis essayez de repérer les indices de 
      début et de fin de la phrase « Rien ne sert de ».
               
-   ![3](https://user-images.githubusercontent.com/78149349/213763951-c13a9a17-90cb-4ac3-9670-16ba6e1c9870.png)
-   ![4](https://user-images.githubusercontent.com/78149349/213763958-f6d4c9a0-e181-4985-b1dd-8f45b46e177a.png)
+   ![3](https://user-images.githubusercontent.com/78149349/213871886-0f66c87e-ac94-4e0c-a080-b66db41649f2.png)
+   ![4](https://user-images.githubusercontent.com/78149349/213871889-f9ba210e-c6e9-408a-8195-2b9292d193fc.png)
 
               
       Remarque :
@@ -53,16 +53,16 @@
       contenant les n premières valeurs du signal enregistré x qui correspondent à ce morceau. 
       Créez ce vecteur, puis écoutez le mot segmenté.
 
-   ![5](https://user-images.githubusercontent.com/78149349/213764020-f04fffc4-810b-423c-aedf-74cb0ad971d2.png)
-   ![6](https://user-images.githubusercontent.com/78149349/213764028-61025ece-a5e6-4b4e-ae69-2264105aad0a.png)
+   ![5](https://user-images.githubusercontent.com/78149349/213871890-10c9e094-fd23-4cd8-90f1-5461ac0c960a.png)
+   ![6](https://user-images.githubusercontent.com/78149349/213871893-e39be195-19a4-4ba2-8a01-849532611abe.png)
 
    6- Segmentez cette fois-ci toute la phrase en créant les variables suivantes : riennesertde, courir, 
       ilfaut, partirapoint.
       
    - courir
    
-   ![7](https://user-images.githubusercontent.com/78149349/213764112-46d4e664-68d8-489b-abc7-85ebf11945c3.png)
-   ![8](https://user-images.githubusercontent.com/78149349/213764119-b33b00da-bb0c-4895-969e-894010b47262.png)
+   ![7](https://user-images.githubusercontent.com/78149349/213871894-e3edf593-59c5-4f6d-a71e-8fcb84199617.png)
+   ![8](https://user-images.githubusercontent.com/78149349/213871895-dcb91475-0d8c-463e-8f84-8e62ea3fc1e2.png)
 
    
    -ilfaut
@@ -72,8 +72,8 @@
    
    -partirapoint
    
-   ![11](https://user-images.githubusercontent.com/78149349/213764167-b0fe150d-ce20-47fc-9c41-e62d75077a2e.png)
-   ![12](https://user-images.githubusercontent.com/78149349/213764174-c8d7df69-e2fd-40ff-b10b-dfdfe5a79258.png)
+   ![11](https://user-images.githubusercontent.com/78149349/213871896-83530f99-fbc5-4a76-8b66-7092903a8b30.png)
+   ![12](https://user-images.githubusercontent.com/78149349/213871898-261267dd-b861-4940-adfc-c48117e2d562.png)
    
     Remarque:
      Ce code lit dans un fichier audio "audio.au" et stocke les données dans la variable 'y' 
@@ -87,8 +87,8 @@
     valeurs (length(x)). Réarrangez ce vecteur pour écouter la phrase synthétisée « Rien ne sert de 
     partir à point, il faut courir »
     
-   ![13](https://user-images.githubusercontent.com/78149349/213764587-093cec0b-abf4-4e1a-bc9f-e9f20cca8bb3.png)
-   ![14](https://user-images.githubusercontent.com/78149349/213764598-985f6e7a-9eca-406e-87b8-8e35c1072c67.png)
+   ![13](https://user-images.githubusercontent.com/78149349/213871899-6854cc2c-14d0-4499-9922-88629a4e02d4.png)
+   ![14](https://user-images.githubusercontent.com/78149349/213871900-e007d25b-983f-4282-8f7e-1aaadc97b420.png)
    
      Remarque :
       Ce code charge un fichier audio appelé "audio.au" et le stocke dans la variable "y". 
@@ -103,8 +103,8 @@
     
    1- Créez un programme qui permet de jouer une gamme de musique.
    
-   ![Screenshot 2023-01-20 182151](https://user-images.githubusercontent.com/78149349/213764678-e97bcd97-e04d-47d4-81db-85376e78cb5f.png)
-   ![16](https://user-images.githubusercontent.com/78149349/213764683-6d19651f-0d58-4876-9ca8-651c53851f0f.png)
+   ![Screenshot 2023-01-20 182151](https://user-images.githubusercontent.com/78149349/213871901-c2f6137d-1662-40f5-847a-82c504d5ae6f.png)
+   ![16](https://user-images.githubusercontent.com/78149349/213871902-95021568-49a7-45fd-814b-88834361ff06.png)
    
    #### Spectre de la gamme de musique
    
@@ -127,8 +127,8 @@
    
    #### Approximation du spectre d’un signal sinusoïdal à temps continu par FFT
    
-   ![17](https://user-images.githubusercontent.com/78149349/213764744-fa2345c0-3559-4066-9079-623078186470.png)
-   ![18](https://user-images.githubusercontent.com/78149349/213764752-1936bc9e-36a2-48b4-84c6-596d360a59b9.png)
+   ![17](https://user-images.githubusercontent.com/78149349/213871904-1b683a6f-504d-44f2-a54d-017579c9c7fd.png)
+   ![18](https://user-images.githubusercontent.com/78149349/213871908-7b599b70-7c62-47f3-ab03-f43ff392c326.png)
    
    Remarque:
    
