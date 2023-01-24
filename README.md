@@ -1,10 +1,5 @@
 # TP2- Jeux de mots Synthèse et analyse spectrale d’une gamme de musique
-  ## Objectifs 
-  - Comprendre comment manipuler un signal audio avec Matlab, en effectuant 
-    certaines opérations classiques sur un fichier audio d’une phrase enregistrée via 
-    un smartphone.
-  - Comprendre la notion des sons purs à travers la synthèse et l’analyse spectrale 
-    d’une gamme de musique.
+ 
   ## Introduction
        La synthèse de jeux de mots est une technique utilisée pour créer des phrases ou
        des textes à partir de mots clés ou de phrases clés. Elle permet de générer du
@@ -15,6 +10,14 @@
         musique et de détecter les différentes notes et instruments utilisés. Cela peut également
         être utilisé pour la création de musique électronique en utilisant des techniques de synthèse
         pour reproduire les caractéristiques spectrales d'un morceau de musique.
+  
+   ## Objectifs 
+    - Comprendre comment manipuler un signal audio avec Matlab, en effectuant 
+      certaines opérations classiques sur un fichier audio d’une phrase enregistrée via 
+      un smartphone.
+    - Comprendre la notion des sons purs à travers la synthèse et l’analyse spectrale 
+      d’une gamme de musique.
+    
    ## Réalisation du TP
 
    ### Partie 1 : Jeux de mots 
